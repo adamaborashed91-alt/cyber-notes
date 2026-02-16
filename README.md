@@ -1,34 +1,42 @@
-
-My cybersecurity learning notes
-# Cybersecurity Notes
+# Cybersecurity Learning Journey 🚀
 
 ## 👨‍💻 About Me
-I am learning cybersecurity step by step.
-This repository contains my personal notes and practice.
+I am currently learning cybersecurity step by step.
+This repository contains my structured notes and practical exercises.
 
 ---
 
-## 📚 Topics I Will Cover
-- Networking Basics
-- Linux Fundamentals
-- SIEM Tools
+## 📚 Current Learning Roadmap
+- Networking Fundamentals
+- Linux Basics
+- SIEM & Log Analysis
 - Incident Response
-- Penetration Testing Basics
+- Threat Detection
+- Penetration Testing Foundations
 
 ---
 
-## 🛠 Tools I Am Learning
+## 🛠 Tools Practicing
 - Wireshark
+- Nmap
 - Splunk
 - Git & GitHub
-- Nmap
+- Linux CLI
 
 ---
 
-## 🎯 Goal
-To become a professional cybersecurity analyst.
+## 📈 Progress Tracker
+- [x] GitHub Setup
+- [ ] Networking Basics
+- [ ] Linux Fundamentals
+- [ ] SIEM Practice
+- [ ] First Security Project
 
 ---
 
-## 📅 Started
-February 2026
+## 🎯 Long-Term Goal
+Become a professional SOC Analyst / Cybersecurity Specialist.
+
+---
+
+📅 Started: February 2026
